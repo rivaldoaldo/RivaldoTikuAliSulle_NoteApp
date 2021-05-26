@@ -1,7 +1,7 @@
 package id.ac.unhas.noteapp.db
 
 import androidx.lifecycle.LiveData
-import androidx.room.*
+import androidx.room
 
 @Dao
 interface NoteDao {
