@@ -1,0 +1,1 @@
+# RivaldoTikuAliSulle_NoteApp
